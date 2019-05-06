@@ -1,0 +1,38 @@
+
+
+## Unity的缓存文件目录 ##
+
+Temp/
+Library/
+build/
+.vs/
+obj/
+.idea/
+Logs/
+Debug/
+bin/
+obj/
+
+## AB包默认目录 ##
+
+/Assets/StreamingAssets/
+/Assets/StreamingAssets.meta
+
+
+## 测试资源 ##
+
+/Assets/Test/
+/Assets/Test.meta
+
+
+
+## rider 编辑器dll ##
+/Assets/Plugins/Editor/
+/Assets/Plugins/Editor.meta
+
+
+*.csproj
+*.rsp
+*.sln
+*.user
+*.cache
